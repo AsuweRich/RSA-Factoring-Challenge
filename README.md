@@ -13,4 +13,4 @@
 ---
 ### Authors
 
-[Mustapha Aliyu Galadima](https://github.com/MG-Musty/)
+[Asuwe Richard Wuese](https://github.com/AsuweRich/)
